@@ -1,0 +1,19 @@
+body
+{
+
+
+}
+#a
+
+input{
+  display: inline-block;
+  width: 120px;
+  padding: 10px
+  background-color: #667eea;
+  color: #FFF
+  text-decoration: none;
+  text-align: center;
+  position: relative;
+  margin: 10px;
+
+}
